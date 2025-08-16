@@ -1,0 +1,8 @@
+# Dependencies
+crewai                  # Multi-agent AI framework
+langchain_google_genai  # LangChain wrapper for Google Gemini
+load_dotenv             # Load environment variables from .env
+crewai_tools            # Built-in tools like Serper search
+
+# pip install -r requirements.txt
+# Install the exact libraries
